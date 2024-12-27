@@ -45,6 +45,7 @@ class Game1 {
 public class Number_guessing_game {
 	public static void main(String[] args) {
 		System.out.println("User guess the number between 1 to 100 : ");
+		System.out.println("");
 		Game1 g = new Game1();
 		boolean b = false;
 		while (!b) {
